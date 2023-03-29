@@ -3,3 +3,5 @@ streamlit==1.20.0
 streamlit_option_menu==0.3.2
 streamlit-aggrid==0.3.3
 sqlite3==0.5.0
+Pycaret==3.0.rc3
+pillow==9.2.0
